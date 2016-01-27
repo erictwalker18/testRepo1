@@ -1,11 +1,2 @@
 This is a test file with stuff.
 
-Added a line.
-
-Added another line.
-
-Did another edit of sorts.
-
-And here's a random line to commit.
-
-Blah.
