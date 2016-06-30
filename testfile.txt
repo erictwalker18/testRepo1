@@ -12,4 +12,4 @@ commit pre fetch
 
 test for fetch
 
-edit
+edit + edit
