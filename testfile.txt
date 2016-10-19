@@ -18,4 +18,4 @@ more edits for tests
 
 hi
 
-mastr edit
+master edit
