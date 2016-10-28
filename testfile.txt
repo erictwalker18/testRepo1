@@ -1,21 +1,11 @@
-This is a test file with stuff.
+This is a test file with inline and stuff.
 
 tag for startup
 
-edit for fetch (again)
-
-commit pre fetch
-
-file change
-
-commit pre fetch
-
-test for fetch
-
-edit + edit
-
-more edits for tests
+Replaced a large section with a smaller version
 
 hi
 
 mas edit
+
+Lots more content at the end of the file
