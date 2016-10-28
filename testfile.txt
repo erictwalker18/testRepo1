@@ -1,4 +1,4 @@
-This is a test file with stuff.
+This is a test file with stuff. However, the lines might be different.
 
 tag for startup
 
@@ -6,11 +6,7 @@ edit for fetch (again)
 
 commit pre fetch
 
-file change
-
-commit pre fetch
-
-test for fetch
+Deleted a small section for editing
 
 edit + edit
 
@@ -18,4 +14,6 @@ more edits for tests
 
 hi
 
-maste edit
+Here are more edits that we also want to append to the end of the file.
+
+(Like, a lot more)
