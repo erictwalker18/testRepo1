@@ -1,4 +1,4 @@
 # testRepo1
 a test repo for the Elegit project
 
-edited 2
+commit for master2
