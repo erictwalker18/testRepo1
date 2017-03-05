@@ -20,12 +20,3 @@ commit pre fetch
 
 Deleted a small section for editing
 
-edit + edit
-
-more edits for tests
-
-hi
-
-Here are more edits that we also want to append to the end of the file.
-
-(Like, a lot more) more text1 more text2 test2 again
