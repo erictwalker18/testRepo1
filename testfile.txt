@@ -9,3 +9,23 @@ hi
 mas edit
 
 Lots more content at the end of the file a thing
+
+This is a test file with stuff. However, the lines might be different.
+
+tag for startup
+
+edit for fetch (again)
+
+commit pre fetch
+
+Deleted a small section for editing
+
+edit + edit
+
+more edits for tests
+
+hi
+
+Here are more edits that we also want to append to the end of the file.
+
+(Like, a lot more)
