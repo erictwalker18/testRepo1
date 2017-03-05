@@ -23,7 +23,6 @@ Deleted a small section for editing
 edit + edit
 
 more edits for tests
-<<<<<<< anotherbranch2
 
 hi
 
